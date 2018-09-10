@@ -27,7 +27,7 @@ replace you API keys and see the magic
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ravi Parmar' => 'ravi.parmar@zebpay.com' }
-  s.source           = { :git => 'https://github.com/Ravi Parmar/ZebIOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/raviparmargithub/ZebIOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
