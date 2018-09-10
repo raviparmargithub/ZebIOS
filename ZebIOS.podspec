@@ -26,7 +26,7 @@ replace you API keys and see the magic
   s.homepage         = 'https://github.com/raviparmargithub/ZebIOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ravi Parmar' => 'ravi.parmar@zebpay.com' }
+  s.author           = { 'Ravi Parmar' => 'ravi.parmar+github@zebpay.com' }
   s.source           = { :git => 'https://github.com/raviparmargithub/ZebIOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
