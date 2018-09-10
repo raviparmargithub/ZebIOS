@@ -1,9 +1,9 @@
 {
   "name": "ZebIOS",
   "version": "0.1.0",
-  "summary": "A short description of ZebIOS.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Ravi Parmar/ZebIOS",
+  "summary": "install and run ZebIOS for fast integration.",
+  "description": "Install library into project to fast forward development process\nand you can also check the code just so that you know whats cooking\nreplace you API keys and see the magic",
+  "homepage": "https://github.com/raviparmargithub/ZebIOS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ZebIOS/Classes/**/*"
+  "source_files": "ZebIOS/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ]
+  }
 }
