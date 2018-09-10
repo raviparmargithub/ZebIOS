@@ -32,8 +32,9 @@ replace you API keys and see the magic
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ZebIOS/Classes/**/*'
-  
+  #s.source_files = 'ZebIOS/Classes/**/*'
+  s.source_files  = 'Classes/*.{h,m}'
+
   # s.resource_bundles = {
   #   'ZebIOS' => ['ZebIOS/Assets/*.png']
   # }
