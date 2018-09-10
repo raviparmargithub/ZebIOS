@@ -1,0 +1,6 @@
+framework module ZebIOS {
+  umbrella header "ZebIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
